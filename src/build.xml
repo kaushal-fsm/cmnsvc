@@ -1,6 +1,6 @@
 <project name="MyProject" default="dist" basedir=".">
     <description>
-        simple example build file
+        simple example build file by Kaushal
     </description>
   <!-- set global properties for this build -->
   <property name="src" location="src"/>
